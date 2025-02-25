@@ -3,8 +3,8 @@ import shutil
 import time
 
 # Define the folder to monitor and the destination folder
-source_folder = "C:\\"
-destination_folder = "F:\\krish copy"
+source_folder = "G:\\"
+destination_folder = "C:\\krish copy"
 
 # Ensure the destination folder exists
 os.makedirs(destination_folder, exist_ok=True)
