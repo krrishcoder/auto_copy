@@ -1,4 +1,4 @@
 # auto_copy
-open the cmd \n
-go to the py file parent folder \n
+open the cmd ,
+go to the py file parent folder,
 python file_name.py
