@@ -4,7 +4,7 @@ import time
 
 # Define the folder to monitor and the destination folder
 source_folder = "G:\\"
-destination_folder = "C:\\krish copy"
+destination_folder = "C:\\"
 
 # Ensure the destination folder exists
 os.makedirs(destination_folder, exist_ok=True)
